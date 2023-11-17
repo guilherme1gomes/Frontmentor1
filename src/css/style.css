@@ -1,0 +1,12 @@
+body {
+   margin: 0;
+   padding: 0;
+   background-color: #6495ED;
+}
+
+img {
+ width: 20%;
+ position: relative;
+ top: 100px;
+ left: 550px;
+}
